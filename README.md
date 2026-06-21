@@ -73,6 +73,9 @@ Tuning `Kp`, `Ki`, `Kd` is most of the balance work — my tuning notes live in
 
 ## Build / upload
 
+> 🚧 **Code is still in progress** — waiting on the motors to arrive. Once they're here and
+> the robot is balancing, I'll upload the working code to [`code/`](code/).
+
 There are two firmwares — one per ESP32.
 
 1. Open the project in [`code/`](code/) with the Arduino IDE or PlatformIO.
