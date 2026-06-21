@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Arduino / PlatformIO build output
+build/
+.pio/
+*.hex
+*.elf
+
+# CAD backup/temp files
+*.bak
+*.stl.bak
+*~
+
+# Python (if you add analysis scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
